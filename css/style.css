@@ -1,0 +1,27 @@
+img {
+    max-width: 100%;
+}
+
+header {
+    background-color: #06131F;
+}
+
+.logo {
+    width: 70px;
+    padding: 1rem 0;
+}
+
+main {
+    background-color: #1D2D3C;
+}
+
+.card {
+    background-color: #112030;
+    color: white;
+    padding: 1rem;
+  
+}
+
+.card img {
+    margin: 1rem;
+}
